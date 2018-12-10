@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # ==============================================================================
-r"""Colab Example for Shakespeare LSTM example.
+"""Colab Example for Shakespeare LSTM example.
 
 To test on TPU:
     python shapespear_lstm.py --use_tpu=True [--tpu=$TPU_NAME]
